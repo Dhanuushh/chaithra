@@ -1,1 +1,2 @@
 "nadgir polytechin"
+"nadgir polytechnic"
